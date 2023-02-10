@@ -2,7 +2,7 @@
 
 
 
-Hola, mi nombre es [Tu Nombre] y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
+Hola, mi nombre es Bruno Baque Plua y este es mi sitio en GitHub Pages. Este sitio es una forma para compartir información sobre mí y mi trabajo con el mundo.
 
 
 
