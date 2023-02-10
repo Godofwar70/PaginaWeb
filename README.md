@@ -11,6 +11,7 @@ Hola, mi nombre es Bruno Baque Plua y este es mi sitio en GitHub Pages. Este sit
 
 
 Soy un Ing.Softwar. Me apasiona mucho la programación y estoy siempre buscando nuevos desafíos y oportunidades para aprender y crecer.
+
 <img src="https://www.factoriabiz.com/wp-content/uploads/2018/03/contratar_programador.jpg"
      alt="Markdown Monster icon"
      width = "200" />
